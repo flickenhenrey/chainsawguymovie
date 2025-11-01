@@ -2,8 +2,8 @@
 // Chainsaw Man - The Movie: Reze Arc
 // =======================
 
-// Replace with actual video source
-const movieFile = 'YOUR_VIDEO_URL_HERE';
+// Movie source
+const movieFile = 'https://ia601505.us.archive.org/6/items/chainsaw-man-reze-hen-episode-01.mp-4-1/Chainsaw%20Man%20Reze-hen%20Episode%2001.mp4%20%281%29.mp4';
 
 // --- Player Logic ---
 const videoPlayer = document.getElementById('video-player');
